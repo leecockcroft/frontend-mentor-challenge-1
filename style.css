@@ -229,6 +229,7 @@ header{
 
 .desktop-img{
   display:block;
+  padding: 1.5em;
 }
 
 .mobile-img{
