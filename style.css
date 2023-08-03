@@ -26,6 +26,10 @@ src: url("./assets/fonts/Roboto-Regular.ttf");
 
 }
 
+.someErrorEl {
+  display:none;
+}
+
 *{
   margin:0;
   padding:0;
